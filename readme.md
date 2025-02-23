@@ -1,7 +1,7 @@
 ```markdown:/Users/satria/Documents/GitHub/php-demo-sample/README.md
 # PHP Contact Management System
 
-A simple contact management system built with PHP and MySQL using Docker.
+A simple contact management system built with PHP and MySQL.
 
 ## Features
 
